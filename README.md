@@ -13,7 +13,7 @@ Simplificando a ajuda aos desabrigados pelas chuvas em Recife. Agende doações 
 
 1. Clone este repositório.
 2. Instale as dependências com `npm install`.
-3. Inicie o servidor com `node index.js`.
+3. Inicie a aplicação com `node index.js`.
 
 ## Documentação da API
 
